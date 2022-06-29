@@ -15,6 +15,7 @@ namespace githubpipeline
     {
         public Startup(IConfiguration configuration)
         {
+            //testing the CI for git hub
             Configuration = configuration;
         }
 
